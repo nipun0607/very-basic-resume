@@ -1,2 +1,2 @@
 # very-basic-resume
-https://github.com/nipun0607/very-basic-resume.git
+https://nipun0607.github.io/very-basic-resume/
